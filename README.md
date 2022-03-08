@@ -1,3 +1,3 @@
 # Computer-graphics-lab-1
 Converting colors from CMYK <-> LAB <-> HSV color models.
-Врублевская Екатерина, 3 курс 13 группа
+Р’СЂСѓР±Р»РµРІСЃРєР°СЏ Р•РєР°С‚РµСЂРёРЅР°, 3 РєСѓСЂСЃ 13 РіСЂСѓРїРїР°
